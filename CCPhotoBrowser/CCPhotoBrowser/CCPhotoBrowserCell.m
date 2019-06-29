@@ -2,8 +2,8 @@
 //  CCPhotoBrowserCell.m
 //  CCPhotoBrowser
 //
-//  Created by Chan on 2018/1/2.
-//  Copyright © 2018年 Chan. All rights reserved.
+//  Created by Chan on 2017/12/25.
+//  Copyright © 2017年 Chan. All rights reserved.
 //
 
 #import "CCPhotoBrowserCell.h"

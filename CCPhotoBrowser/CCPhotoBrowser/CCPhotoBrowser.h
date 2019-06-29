@@ -2,12 +2,14 @@
 //  CCPhotoBrowser.h
 //  CCPhotoBrowser
 //
-//  Created by Chan on 2018/1/2.
-//  Copyright © 2018年 Chan. All rights reserved.
+//  Created by Chan on 2017/12/25.
+//  Copyright © 2017年 Chan. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
+
+//一款简单的图片浏览器（带视频播放和网络图片预览）
 
 typedef void(^DeleteBlock)(NSMutableArray *dataSource,NSUInteger currentIndex,UICollectionView *collectionView);
 
